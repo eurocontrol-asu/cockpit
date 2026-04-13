@@ -9,7 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "dagster>=1.6.0",
-    "dagster-webserver>=1.6.0",
+    "dagster-webserver>=1.13.0",
     "polars>=0.20.0",
     "deltalake>=0.15.0",
     "pydantic>=2.10.6",
